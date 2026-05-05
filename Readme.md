@@ -55,3 +55,21 @@ This system leverages **Machine Learning models** to provide **fast, accurate, a
 
 ## 📂 Project Structure
 ****
+G7-AI-Disease-Prediction/
+│
+├── data/ # Dataset files
+├── models/ # Trained ML models
+├── src/
+│ ├── preprocessing.py # Data cleaning & preparation
+│ ├── train_model.py # Model training
+│ ├── predict.py # Prediction logic
+│ └── chatbot.py # Chatbot logic
+│
+├── app/
+│ ├── main.py # Backend server
+│ └── routes.py # API endpoints
+│
+├── static/ # CSS, JS files
+├── templates/ # HTML UI
+├── requirements.txt
+└── README.md
