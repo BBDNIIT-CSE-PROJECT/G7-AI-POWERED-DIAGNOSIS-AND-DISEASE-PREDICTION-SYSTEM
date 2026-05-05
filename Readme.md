@@ -55,6 +55,7 @@ This system leverages **Machine Learning models** to provide **fast, accurate, a
 
 ## 📂 Project Structure
 ****
+
 G7-AI-Disease-Prediction/
 │
 ├── data/ # Dataset files
